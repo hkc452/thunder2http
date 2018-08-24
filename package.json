@@ -1,6 +1,6 @@
 {
   "name": "thunder2http",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A tool for transfer thunder link to http",
   "main": "index.js",
   "bin": {
