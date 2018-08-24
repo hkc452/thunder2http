@@ -1,0 +1,14 @@
+{
+  "name": "thunder2http",
+  "version": "1.0.0",
+  "description": "A tool for transfer thunder link to http",
+  "main": "index.js",
+  "bin": {
+    "2http": "index.js"
+  },
+  "author": "hkc",
+  "license": "ISC",
+  "keywords": [
+    "thunder", "http", "download", "link", "url"
+  ]
+}
